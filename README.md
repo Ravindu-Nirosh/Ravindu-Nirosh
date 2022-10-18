@@ -1,4 +1,4 @@
-# 💫 About Me:
+<center># 💫 About Me:</center>
 Im Currently Undergraduate at NIBM and Fallowing Mobile application Development
 
 
