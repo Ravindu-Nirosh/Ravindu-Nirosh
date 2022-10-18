@@ -21,7 +21,7 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer and Mobile application Developer and Currently Undergraduate from NIBM im good at coding and problem solving also studying  
+I’m a full-stack developer and Mobile application Developer and Currently Undergraduate student at NIBM im good at coding and problem solving also studying  
 
 **Laravel ,
 React ,
