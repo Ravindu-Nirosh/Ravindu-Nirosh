@@ -92,7 +92,6 @@ Flutter**😍😘
 <br/>  
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Ravindu-Nirosh&&style=flat-square)  
   
 
 <br/>  
