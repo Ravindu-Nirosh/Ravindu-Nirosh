@@ -38,7 +38,7 @@ Flutter**😍😘
 - 🔭 I’m currently working on some project With Flutter  
   
 
-- 🌱 I’m currently learning React and Laravel  
+- 🌱 I’m currently learning React 
   
 
 - ❓ Ask me about anything related flutter   
